@@ -78,19 +78,74 @@ Transformers | LLMs | LangChain | MLOps
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BERT](https://img.shields.io/badge/🤗_BERT-FFD21E?style=for-the-badge&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=json&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/><br/>
+<sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45"/><br/>
+<sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45"/><br/>
+<sub><b>Scikit-learn</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45"/><br/>
+<sub><b>Anaconda</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br/>
+<sub><b>NumPy</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/><br/>
+<sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/><br/>
+<sub><b>BERT</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45" height="45"/><br/>
+<sub><b>REST API</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/claude" width="45" height="45"/><br/>
+<sub><b>Claude</b></sub>
+</td>
+<td align="center" width="110">
+<img src="images/antigravity.png" width="45" height="45"/><br/>
+<sub><b>Antigravity</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,33 +156,32 @@ Transformers | LLMs | LangChain | MLOps
 <table align="center">
 <tr>
 <td align="center" width="33%">
-
-**🛡️ HLCA**
-AI-powered PDF Verification
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-333?style=flat-square&logo=github)](https://github.com/your-username/hlca)
-
+<img src="images/Hlca.png" width="100%"/><br/><br/>
+<b>🛡️ HLCA</b><br/>
+<sub>AI-powered PDF Verification</sub><br/><br/>
+<a href="https://github.com/radheeravin/hlca">
+<img src="https://img.shields.io/badge/GitHub-View_Project-333?style=flat-square&logo=github"/>
+</a>
 </td>
 <td align="center" width="33%">
-
-**🤖 Study Buddy**
-AI Study Companion
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-1f6feb?style=flat-square&logo=github)](https://github.com/your-username/study-buddy)
-
+<img src="images/StudyBuddy.png" width="100%"/><br/><br/>
+<b>🤖 Study Buddy</b><br/>
+<sub>AI Study Companion</sub><br/><br/>
+<a href="https://github.com/radheeravin/study-buddy">
+<img src="https://img.shields.io/badge/GitHub-View_Project-1f6feb?style=flat-square&logo=github"/>
+</a>
 </td>
 <td align="center" width="33%">
-
-**📡 Smart Beacon Class**
-IoT Smart Classroom
-
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-8a4b00?style=flat-square&logo=github)](https://github.com/your-username/smart-beacon-class)
-
+<img src="images/SmartBeacon.png" width="100%"/><br/><br/>
+<b>📡 Smart Beacon Class</b><br/>
+<sub>IoT Smart Classroom</sub><br/><br/>
+<a href="https://github.com/radheeravin/smart-beacon-class">
+<img src="https://img.shields.io/badge/GitHub-View_Project-8a4b00?style=flat-square&logo=github"/>
+</a>
 </td>
 </tr>
 </table>
 
----
 
 ## 🏅 Certifications
 
@@ -137,7 +191,7 @@ IoT Smart Classroom
 <tr>
 <td align="center" bgcolor="#8B0000" width="320">
 <br/>
-<img src="images/IIT.png" width="55" height="55"/><br/><br/>
+<img src="images/IIT.png" width="100%"/><br/><br/>
 <b style="font-size:16px;">🏛️ IIT Madras</b><br/>
 <sub><b>AI/ML with Python</b></sub><br/>
 <img src="https://img.shields.io/badge/Certified-✔-success?style=flat-square&color=2e7d32"/>
@@ -146,7 +200,7 @@ IoT Smart Classroom
 <td width="20"></td>
 <td align="center" bgcolor="#3d1a78" width="320">
 <br/>
-<img src="images/IEEE.png" width="55" height="55"/><br/><br/>
+<img src="images/IEEE.png" width="100%"/><br/><br/>
 <b style="font-size:16px;">🏛️ IEEE & NIT Karaikal</b><br/>
 <sub><b>AI/ML Techniques</b></sub><br/>
 <img src="https://img.shields.io/badge/Certified-✔-success?style=flat-square&color=2e7d32"/>
@@ -171,22 +225,33 @@ IoT Smart Classroom
 
 ---
 
-## 🤝 Open to Collaborate
+## 🤝 Open to Collaborate &nbsp;&nbsp;& &nbsp;&nbsp; 🔗 Let's Connect
 
-![AI](https://img.shields.io/badge/AI-1a1a2e?style=flat-square)
-![ML](https://img.shields.io/badge/ML-4B0082?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-CC5500?style=flat-square)
-![Python](https://img.shields.io/badge/Python-8B7500?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-1B5E20?style=flat-square)
-![Research](https://img.shields.io/badge/Research-8B0000?style=flat-square)
-
-## 🔗 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-
----
+<table align="center">
+<tr>
+<td align="center" width="50%" valign="top">
+<b>🤝 Open to Collaborate</b><br/><br/>
+<img src="https://img.shields.io/badge/AI-1a1a2e?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-4B0082?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-CC5500?style=flat-square&logo=huggingface&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-8B7500?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-1B5E20?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research-8B0000?style=flat-square&logo=googlescholar&logoColor=white"/>
+</td>
+<td align="center" width="50%" valign="top">
+<b>🔗 Let's Connect</b><br/><br/>
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/your-username">
+<img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
