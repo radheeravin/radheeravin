@@ -137,7 +137,7 @@ IoT Smart Classroom
 <tr>
 <td align="center" bgcolor="#8B0000" width="320">
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/en/2/22/IIT_Madras_Logo.svg" width="55" height="55"/><br/><br/>
+<img src="images/IIT.png" width="55" height="55"/><br/><br/>
 <b style="font-size:16px;">🏛️ IIT Madras</b><br/>
 <sub><b>AI/ML with Python</b></sub><br/>
 <img src="https://img.shields.io/badge/Certified-✔-success?style=flat-square&color=2e7d32"/>
@@ -146,7 +146,7 @@ IoT Smart Classroom
 <td width="20"></td>
 <td align="center" bgcolor="#3d1a78" width="320">
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/IEEE_logo.svg" width="70" height="35"/><br/><br/>
+<img src="images/IEEE.png" width="55" height="55"/><br/><br/>
 <b style="font-size:16px;">🏛️ IEEE & NIT Karaikal</b><br/>
 <sub><b>AI/ML Techniques</b></sub><br/>
 <img src="https://img.shields.io/badge/Certified-✔-success?style=flat-square&color=2e7d32"/>
