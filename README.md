@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Radhee%20Ravindran&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20NLP%20|%20Generative%20AI&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=Radhee%20Ravindran&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20NLP%20|%20Generative%20AI&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -16,10 +16,6 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=radheeravin.radheeravin&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/radheeravin?style=for-the-badge&color=27da6b&logo=github"/>
-</p>
-
-<p align="center">
-<img width="720" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
@@ -44,7 +40,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,linux,vscode,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode,anaconda&theme=dark" />
 </p>
 
 <p align="center">
@@ -59,17 +55,77 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
+<table align="center">
+<tr>
+
+<td align="center">
+
 <a href="https://github.com/radheeravin/HLCA">
-<img src="https://opengraph.githubassets.com/1/radheeravin/HLCA" width="390"/>
+<img src="images/hlca.png" width="220"/>
 </a>
+
+<br><br>
+
+<b>🛡️ HLCA</b>
+
+<br>
+
+AI-powered PDF Verification
+
+<br><br>
+
+<a href="https://github.com/radheeravin/HLCA">
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td align="center">
 
 <a href="https://github.com/radheeravin/Study-Buddy">
-<img src="https://opengraph.githubassets.com/1/radheeravin/Study-Buddy" width="390"/>
+<img src="images/studybuddy.png" width="220"/>
 </a>
 
-<a href="https://github.com/radheeravin/Smart-Beacon-Class">
-<img src="https://opengraph.githubassets.com/1/radheeravin/Smart-Beacon-Class" width="390"/>
+<br><br>
+
+<b>🤖 Study Buddy</b>
+
+<br>
+
+AI Study Companion
+
+<br><br>
+
+<a href="https://github.com/radheeravin/Study-Buddy">
+<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/radheeravin/Smart-Beacon-Class">
+<img src="images/smartbeacon.png" width="220"/>
+</a>
+
+<br><br>
+
+<b>📡 Smart Beacon Class</b>
+
+<br>
+
+IoT Smart Classroom
+
+<br><br>
+
+<a href="https://github.com/radheeravin/Smart-Beacon-Class">
+<img src="https://img.shields.io/badge/View_Project-orange?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <h3 align="center">📜 Certifications</h3>
 
@@ -125,5 +181,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&section=footer&color=gradient"/>
 </p>
