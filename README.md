@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:2575FC&height=200&section=header&text=Radhee%20Ravindran&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:2575FC&height=200&section=header&text=Radhee%20Ravindran&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=A/ML+Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TERMINAL INTRO ===================== -->
 <div align="center">
@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;🤖&nbsp;<code>AI_ENGINE</code>&nbsp;&nbsp;
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=24&duration=2800&pause=900&color=22D3EE&background=000800&center=true&vCenter=true&width=650&height=50&lines=A/ML+Engineer;Data+Science+Enthusiast;Building+Intelligent+AI+Solutions;Open+Source+Learner;Always+Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=24&duration=2800&pause=900&color=22D3EE&background=000800&center=true&vCenter=true&width=650&height=50&lines=;Data+Science+Enthusiast;Building+Intelligent+AI+Solutions;Open+Source+Learner;Always+Learning" alt="Typing SVG"/>
 
 </td></tr>
 </table>
@@ -26,53 +26,66 @@
 
 </p>
 
+
 ## 👤 About Me
 
-<table>
+<table align="center" border="0">
 <tr>
-<td width="25%">
+<td width="20%" valign="top" align="center">
 
 **🎓 Education**
-B.Tech AI/ML
-CGPA: 8.2
+
+![B.Tech](https://img.shields.io/badge/B.Tech_AI/ML-blue?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA_:_8.2-green?style=for-the-badge)
 
 </td>
-<td width="25%">
+<td width="20%" valign="top" align="center">
 
 **📍 Location**
-Puducherry, India
+
+![Location](https://img.shields.io/badge/Puducherry,India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </td>
-<td width="25%">
+<td width="20%" valign="top" align="center">
 
 **💼 Role**
-AI/ML Engineer
+
+![Role](https://img.shields.io/badge/AI/ML_Engineer-cyan?style=for-the-badge)
+![Role](https://img.shields.io/badge/Data_Scientist-purple?style=for-the-badge)
 
 </td>
-<td width="25%">
+<td width="20%" valign="top" align="center">
 
 **🎯 Status**
-Open to Work
+
+![Status](https://img.shields.io/badge/Open_to_Work-violet?style=for-the-badge)
+
+</td>
+<td width="20%" valign="top" align="center">
+
+**🧠 Focus Areas**
+
+<img src="https://img.shields.io/badge/ML-4285F4?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/DL-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CV-E74C3C?style=flat-square&logo=opencv&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-**🧠 Focus Areas**
-ML | DL | NLP | GenAI | CV
-
-</td>
-<td colspan="2">
+<td colspan="5" align="center">
 
 **🌱 Currently Learning**
-Transformers | LLMs | LangChain | MLOps
+
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
