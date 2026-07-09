@@ -4,27 +4,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:2575FC&height=200&section=header&text=Radhee%20Ravindran&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TERMINAL INTRO ===================== -->
-```ansi
->> AI/ML Engineer
- > Data Science Enthusiast
--> Building Intelligent AI Solutions
--> Open Source Learner
- > Always Learning 🚀
-```
+<div align="center">
 
-<!-- ===================== QUICK LINK BADGES ===================== -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f3460)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@example.com)
+<table>
+<tr><td>
 
-<!-- ===================== VIEW / FOLLOWER COUNTS ===================== -->
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=1a1a2e&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e)
+&nbsp;&nbsp;🤖&nbsp;<code>AI_ENGINE</code>&nbsp;&nbsp;
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=24&duration=2800&pause=900&color=22D3EE&background=000800&center=true&vCenter=true&width=650&height=50&lines=A/ML+Engineer;Data+Science+Enthusiast;Building+Intelligent+AI+Solutions;Open+Source+Learner;Always+Learning" alt="Typing SVG"/>
 
----
+</td></tr>
+</table>
+
+<h2 align="center">⚡My Reach</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=radheeravin&style=for-the-badge&color=00BFFF"/>
+
+<img src="https://img.shields.io/github/followers/radheeravin?style=for-the-badge&color=2563EB"/>
+
+</p>
 
 ## 👤 About Me
 
@@ -141,7 +141,7 @@ Transformers | LLMs | LangChain | MLOps
 <sub><b>Claude</b></sub>
 </td>
 <td align="center" width="110">
-<img src="images/antigravity.png" width="45" height="45"/><br/>
+<img src="images/antigravity.jpg" width="45" height="45"/><br/>
 <sub><b>Antigravity</b></sub>
 </td>
 </tr>
@@ -215,17 +215,16 @@ Transformers | LLMs | LangChain | MLOps
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=radheeravin&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radheeravin&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="center">
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=radheeravin&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
+Contribution Graph
+
+<img src="https://raw.githubusercontent.com/radheeravin/radheeravin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=radheeravin&theme=react-dark&hide_border=true&bg_color=0d1117&color=2575FC&line=8E2DE2&point=ffffff" width="100%"/>
 </p>
-
----
-
-## 🤝 Open to Collaborate &nbsp;&nbsp;& &nbsp;&nbsp; 🔗 Let's Connect
 
 <table align="center">
 <tr>
@@ -240,7 +239,10 @@ Transformers | LLMs | LangChain | MLOps
 </td>
 <td align="center" width="50%" valign="top">
 <b>🔗 Let's Connect</b><br/><br/>
-<a href="https://your-portfolio-link.com">
+<a href="mailto:radhee.ravin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+ <a href="https://your-portfolio-link.com">
 <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/your-linkedin">
