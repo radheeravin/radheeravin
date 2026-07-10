@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;🤖&nbsp;<code>AI_ENGINE</code>&nbsp;&nbsp;
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=24&duration=2800&pause=900&color=22D3EE&background=000800&center=true&vCenter=true&width=650&height=50&lines=;Data+Science+Enthusiast;Building+Intelligent+AI+Solutions;Open+Source+Learner;Always+Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=24&duration=2800&pause=900&color=22D3EE&background=000800&center=true&vCenter=true&width=650&height=50&lines=Data+Science+Enthusiast;Building+Intelligent+AI+Solutions;Open+Source+Learner;Always+Learning" alt="Typing SVG"/>
 
 </td></tr>
 </table>
