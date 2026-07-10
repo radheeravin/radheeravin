@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:2575FC&height=200&section=header&text=Radhee%20Ravindran&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=A/ML+Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="./images/header.png" width="100%" alt="Radhee Banner"/>
 
 <!-- ===================== TERMINAL INTRO ===================== -->
 <div align="center">
@@ -50,15 +50,15 @@
 
 **💼 Role**
 
-![Role](https://img.shields.io/badge/AI/ML_Engineer-cyan?style=for-the-badge)
-![Role](https://img.shields.io/badge/Data_Scientist-purple?style=for-the-badge)
+![Role](https://img.shields.io/badge/AI/ML_Engineer-blue?style=for-the-badge)
+![Role](https://img.shields.io/badge/Data_Scientist-green?style=for-the-badge)
 
 </td>
 <td width="20%" valign="top" align="center">
 
 **🎯 Status**
 
-![Status](https://img.shields.io/badge/Open_to_Work-violet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open_to_Work-orange?style=for-the-badge)
 
 </td>
 <td width="20%" valign="top" align="center">
@@ -273,6 +273,6 @@ Contribution Graph
 ### *"The best way to predict the future is to invent it."*
 **— Alan Kay**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:8E2DE2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:6A11CB&height=6&section=footer" width="100%"/>
 
 </div>
